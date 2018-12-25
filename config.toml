@@ -1,7 +1,7 @@
 title = "Keiko Sushi"
 baseURL = "https://keiko-sushi.netlify.com"
 languageCode = "en-us"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
