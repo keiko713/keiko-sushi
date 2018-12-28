@@ -20,3 +20,5 @@ We would like to see how we can show the photos NOT using the absolute URLs, but
 ![kawahagi](/images/kawahagi.jpg)
 
 ![shirako](/images/shirako.jpg)
+
+![taizushi](/images/taizushi.jpg)
